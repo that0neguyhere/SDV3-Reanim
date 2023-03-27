@@ -22,7 +22,7 @@ game.Players.LocalPlayer.Character["Pink Hair"].Handle.Mesh:Destroy()
 game.Players.LocalPlayer.Character["Kate Hair"].Handle.Mesh:Destroy() --LavanderHair
 game.Players.LocalPlayer.Character["LavanderHair"].Handle.Mesh:Destroy()
 game.Players.LocalPlayer.Character["Robloxclassicred"].Handle.Mesh:Destroy()
-game.Players.LocalPlayer.Character["PlaneModel"].Handle.Mesh:Destroy()
+game.Players.LocalPlayer.Character["Wings"].Handle.Mesh:Destroy()
 
 game.Players.LocalPlayer.Character["Left Leg"].Transparency = 1 
 game.Players.LocalPlayer.Character["Right Leg"].Transparency = 1 
